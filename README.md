@@ -1,2 +1,2 @@
-# Kirie-Kong
+# Kyrie-Kong
 Spel maken
